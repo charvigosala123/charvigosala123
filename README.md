@@ -14,8 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=charvigosala123&amp;show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charvigosala123&amp;show_icons=true)
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=charvigosala123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=charvigosala123&layout=compact)
